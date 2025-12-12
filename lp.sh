@@ -26,8 +26,6 @@ echo "安装完成！"
 # 设置别名，写入 .bashrc
 echo "alias lp='asciinema'" >> ~/.bashrc
 
-# 立即使别名生效
-source ~/.bashrc
 
 echo "别名 lp 已启用！"
 echo "source ~/.bashrc"
