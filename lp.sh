@@ -29,5 +29,6 @@ echo "alias lp='asciinema'" >> ~/.bashrc
 # 立即使别名生效
 source ~/.bashrc
 
-echo "别名 lp 已启用！现在可以直接运行： lp rec"
+echo "别名 lp 已启用！"
+echo "source ~/.bashrc"
 echo "完成！"
